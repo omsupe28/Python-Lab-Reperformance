@@ -1,0 +1,15 @@
+Read content from source file:
+This is the original content.
+Adding some more text.
+
+Content after appending:
+This is the original content.
+Adding some more text.
+Appending new content.
+
+File copied from source.txt to destination.txt.
+
+Content of the destination file:
+This is the original content.
+Adding some more text.
+Appending new content.

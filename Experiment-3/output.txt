@@ -1,0 +1,22 @@
+Test 1: Valid inputs (10, 2)
+The result is: 5.0
+
+Test 2: Division by zero (10, 0)
+Error: Cannot divide by zero!
+
+Test 3: Invalid input types ('ten', 2)
+Error: Invalid input type. Please enter numbers only.
+
+Test 4: Invalid denominator (10, 'two') - TypeError
+Error: Invalid input type. Please enter numbers only.
+
+Test 5: Missing denominator (10, None) - TypeError
+Error: Invalid input type. Please enter numbers only.
+
+Test 6: Integer conversion - handling a real ValueError
+convert_to_int('25'): 25
+convert_to_int('two'): Error: Invalid input!
+
+Test 7: List search - handling a real ValueError
+find_index([10, 20, 30], 20): 1
+find_index([10, 20, 30], 99): Error: Element not found!

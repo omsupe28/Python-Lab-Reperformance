@@ -1,0 +1,10 @@
+{
+  "command": "python -B experiment_1.py",
+  "working_directory": "Experiment-1",
+  "python_version": "3.12.14",
+  "started_at_utc": "2026-10-28T16:28:16.756272+00:00",
+  "exit_code": 0,
+  "stderr": "",
+  "output_file": "output.txt",
+  "screenshot_note": "Screenshot of the execution viewer displaying actual subprocess stdout; not a native terminal window."
+}

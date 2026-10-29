@@ -1,0 +1,8 @@
+PASS: Experiment 1 executes from another directory and matches output.txt
+PASS: Experiment 2 executes from another directory and matches output.txt
+PASS: Experiment 3 executes from another directory and matches output.txt
+PASS: Package imports, arithmetic, circle calculations, zero and decimal inputs
+PASS: File write/read/append/copy, exact copied bytes, repeated run and I/O error handling
+PASS: All five original division cases, extra numeric cases, ValueError and fallback handlers
+PASS: Integer conversion and list-search question functions, including invalid values
+All verification checks passed.
